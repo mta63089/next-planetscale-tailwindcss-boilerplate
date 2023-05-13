@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>NEXT | PLANETSCALE | TAILWINDCSS<b><h1>
+<h1 align="center"><b>NEXT | PLANETSCALE | TAILWINDCSS</b></h1>
 <div align="center"><strong>Next.js 13 Admin Dashboard Template</strong></div>
 <div align="center">Built with the new `app` directory (beta).</div>
 <br />
